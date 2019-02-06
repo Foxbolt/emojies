@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A437F26C21F91319007DE3B8 /* EmojiDefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A437F26B21F91319007DE3B8 /* EmojiDefinitionViewController.swift */; };
 		A4B98CCE21F3BA140059BE13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B98CCD21F3BA140059BE13 /* AppDelegate.swift */; };
 		A4B98CD321F3BA140059BE13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4B98CD121F3BA140059BE13 /* Main.storyboard */; };
 		A4B98CD521F3BA150059BE13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A4B98CD421F3BA150059BE13 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A437F26B21F91319007DE3B8 /* EmojiDefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiDefinitionViewController.swift; sourceTree = "<group>"; };
 		A4B98CCA21F3BA140059BE13 /* Emoji Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4B98CCD21F3BA140059BE13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A4B98CD221F3BA140059BE13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				A4B98CCD21F3BA140059BE13 /* AppDelegate.swift */,
 				A4B98CD121F3BA140059BE13 /* Main.storyboard */,
+				A437F26B21F91319007DE3B8 /* EmojiDefinitionViewController.swift */,
 				A4B98CD421F3BA150059BE13 /* Assets.xcassets */,
 				A4B98CD621F3BA150059BE13 /* LaunchScreen.storyboard */,
 				A4B98CDF21F3BC1A0059BE13 /* Emoji TableViewController.swift */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4B98CCE21F3BA140059BE13 /* AppDelegate.swift in Sources */,
+				A437F26C21F91319007DE3B8 /* EmojiDefinitionViewController.swift in Sources */,
 				A4B98CE021F3BC1A0059BE13 /* Emoji TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
